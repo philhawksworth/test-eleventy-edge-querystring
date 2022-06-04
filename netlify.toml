@@ -1,0 +1,15 @@
+[build]
+commad = "npm run build"
+publish = "dist"
+
+[dev]
+commad = "npm run dev"
+publish = "dist"
+
+
+[[edge_functions]]
+path = "/*"
+function = "eleventy-edge"
+
+
+

@@ -1,0 +1,10 @@
+{
+  "terminal.integrated.cwd": "",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "deno.enable": true,
+  "deno.enablePaths": [
+    "netlify/edge-functions"
+  ],
+  "deno.unstable": true,
+  "deno.path": "/Users/phil/Library/Preferences/netlify/deno-cli/deno"
+}

@@ -1,0 +1,4 @@
+node_modules
+netlify/edge-functions/_generated
+.netlify
+dist
